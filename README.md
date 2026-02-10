@@ -20,13 +20,13 @@ This skill provides Claude Code with deep knowledge of the XRPL development ecos
 ### Quick Install
 
 ```bash
-npx skills add https://github.com/anthropics/xrpl-dev-skill
+npx skills add https://github.com/xrpl-commons/xrpl-dev-skill
 ```
 
 ### Manual Install
 
 ```bash
-git clone https://github.com/anthropics/xrpl-dev-skill
+git clone https://github.com/xrpl-commons/xrpl-dev-skill
 cd xrpl-dev-skill
 ./install.sh
 ```
