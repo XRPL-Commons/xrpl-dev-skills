@@ -100,6 +100,11 @@ When you implement changes, provide:
 - commands to install/build/test
 - a short "risk notes" section for anything touching signing, fees, reserves, or asset transfers
 
+## Content Sources
+This skill incorporates best practices from:
+- The [Official XRPL Documentation](https://xrpl.org/docs) — the authoritative reference for protocol specifications, transaction types, and API details.
+- The foundational course materials: [xrpl-training-2026-january](https://github.com/XRPL-Commons/xrpl-training-2026-january).
+
 ## Progressive disclosure (read when needed)
 - Client SDK patterns (xrpl.js): [client-sdk.md](client-sdk.md)
 - Frontend & wallet integration: [frontend.md](frontend.md)
@@ -110,3 +115,4 @@ When you implement changes, provide:
 - Cross-chain interoperability: [interoperability.md](interoperability.md)
 - Security checklist: [security.md](security.md)
 - Resources & references: [resources.md](resources.md)
+- A framework-agnostic wallet connection toolkit for the XRP Ledger [xrpl-connect](https://github.com/XRPL-Commons/xrpl-connect)
